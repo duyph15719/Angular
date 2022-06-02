@@ -1,3 +1,7 @@
+tạo 1 thư mục nhanh 
+ng g c (ten thu muc) -- skip testts
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.

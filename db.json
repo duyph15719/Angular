@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "product B Update",
+      "price": 300,
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "product C Update",
+      "price": 400,
+      "status": false
+    },
+    {
+      "name": "Product C",
+      "price": 5000,
+      "id": 4
+    },
+    {
+      "name": "Product D",
+      "price": 12334444,
+      "id": 5
+    },
+    {
+      "name": "Product F update",
+      "price": 123456,
+      "status": true,
+      "id": 6
+    },
+    {
+      "name": "duybeo12",
+      "price": 12312312,
+      "status": true,
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "duydeodai221@gmail.com",
+      "password": "$2a$10$vxxEFQeRk252dhJd1cF8nOfKy14AHXMH6PHnxqXQF52fP95PIFLbO",
+      "name": "duybeo12",
+      "id": 1
+    },
+    {
+      "email": "duydeodai2221@gmail.com",
+      "password": "$2a$10$nwj/zKuGm9c5dQYUVMFj.e72zmIV7Tmz94VN5.ykIMMznjMr29AA.",
+      "name": "duybeo1213212",
+      "id": 2
+    },
+    {
+      "email": "duyncph15719@fpt.edu.cn",
+      "password": "$2a$10$SXtoIUBTCIVAL3o61/UoFeLqV0wuxAqDmxNxfljeBNn.lxrkQviNm",
+      "name": "duybeo1223131",
+      "id": 3
+    },
+    {
+      "email": "tittran1227@gmail.com",
+      "password": "$2a$10$4VZofxh/GTC3kTJxn.inR.tVylbXgRwwiBkm7oal/S.HvU6sJZgjO",
+      "name": "duybeo12",
+      "id": 4
+    }
+  ]
+}

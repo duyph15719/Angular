@@ -1,0 +1,6 @@
+<p>product-add works!</p>
+<form (ngSubmit)="onSubmit()">
+    <input type="text" [(ngModel)]="product.name" placeholder="name" name="name" />
+    <input type="number" [(ngModel)]="product.price" placeholder="price" name="price" />
+    <button>Submit</button>
+</form>
